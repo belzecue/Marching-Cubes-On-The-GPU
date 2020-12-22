@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UserSettings
+/Temp
+/obj/Debug
+/Logs
+/Library
+/.vs/Marching-Cubes-On-The-GPU/v16
+/Marching-Cubes-On-The-GPU.sln
+/Assembly-CSharp.csproj
